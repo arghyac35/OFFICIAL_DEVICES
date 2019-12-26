@@ -563,7 +563,7 @@
             "maintainer_name":"Atman Shah (twistloop)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8970650",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-aospextended-rom-v5-5-t3798293",
-            "is_depreciated": true
+            "is_depreciated": false
          },
          {
             "version_code":"pie",
